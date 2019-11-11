@@ -1,0 +1,13 @@
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.pdb
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojAssemblyReference.cache
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.Form1.resources
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.exe
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.dll
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.xml
+C:\Users\furkan\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CopyComplete
